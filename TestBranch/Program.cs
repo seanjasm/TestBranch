@@ -10,6 +10,8 @@ namespace TestBranch
     {
         static void Main(string[] args)
         {
+            if (1 == 1)
+                Console.Write("hey");
         }
     }
 }
