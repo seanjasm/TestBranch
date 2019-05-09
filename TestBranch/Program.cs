@@ -12,6 +12,7 @@ namespace TestBranch
         {
             if (1 == 1)
                 Console.Write("hey");
+            Console.WriteLine("Anything");
         }
     }
 }
